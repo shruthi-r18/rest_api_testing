@@ -1,0 +1,14 @@
+{
+  "addData_validation01": [
+    "201",
+    "Success"
+  ],
+  "addData_validation02": [
+    "401",
+    "Fatal"
+  ],
+  "addData_validation03": [
+    "404",
+    "Not Found"
+  ]
+}

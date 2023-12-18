@@ -1,0 +1,14 @@
+{
+  "login_validation01": [
+    "201",
+    "Success"
+  ],
+  "login_validation02": [
+    "401",
+    "Fatal"
+  ],
+  "login_validation03": [
+    "404",
+    "Not Found"
+  ]
+}

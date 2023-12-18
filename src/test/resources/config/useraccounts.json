@@ -1,0 +1,22 @@
+{
+  "production" : {
+    "valid" : {
+      "username" : "mar2023shruthi@ta.com",
+      "password" : "Mar231234"
+    },
+    "invalid" : {
+      "username" : "mithun@ta.com",
+      "password" : "m1234"
+    }
+  },
+  "qa" : {
+    "valid" : {
+      "username" : "mar2023shruthi@ta.com",
+      "password" : "Mar231234"
+    },
+    "invalid" : {
+      "username" : "mithun@ta.com",
+      "password" : "m1234"
+    }
+  }
+}

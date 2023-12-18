@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test(failed)">
+    <classes>
+      <class name="tests.AddDataTest">
+        <methods>
+          <include name="addDataTests_TC02"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.AddDataTest -->
+      <class name="tests.GetDataTest">
+        <methods>
+          <include name="getDataTest_TC01"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.GetDataTest -->
+      <class name="tests.DeleteDataTests">
+        <methods>
+          <include name="addDataTests_TC01"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.DeleteDataTests -->
+      <class name="tests.UpdateDataTests">
+        <methods>
+          <include name="addDataTests_TC01"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.UpdateDataTests -->
+      <class name="tests.LoginTests">
+        <methods>
+          <include name="loginTests_TC01"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- tests.LoginTests -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
